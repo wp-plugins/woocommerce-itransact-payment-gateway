@@ -1,5 +1,5 @@
-=== WooCommerce iTransact Payment Gateway ===
-Contributors: Adorn
+﻿=== WooCommerce iTransact Payment Gateway ===
+Contributors: sivarajadorn
 Tags: woocommerce, payment gateway, itransact
 Donate Link: http://www.adornconsultants.com/
 Requires at least: 3.0
